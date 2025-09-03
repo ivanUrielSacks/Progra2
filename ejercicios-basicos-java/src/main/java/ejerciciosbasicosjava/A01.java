@@ -1,7 +1,7 @@
 
-package com.mycompany.ejerciciosbasicosenjava;
+package ejerciciosbasicosjava;
 import java.util.Scanner;
-public class EjerciciosBasicosEnJava 
+public class A01 
 {
 
     public static void main(String[] args)
